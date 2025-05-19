@@ -66,6 +66,6 @@ To fetch these advanced metrics, I recommend to updated the FETCH_SELECTION line
 
 ## Full dashboard Example
 
-![Dashboard](https://github.com/arpanghosh8453/garmin-grafana/blob/main/Grafana_Dashboard/Garmin-Grafana-Dashboard-Preview.png?raw=true)
+![Dashboard](https://github.com/brunothesatellite/grafana-dashboard/blob/main/Advanced-dashboard.png?raw=true)
 
 
